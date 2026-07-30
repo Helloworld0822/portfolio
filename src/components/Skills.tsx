@@ -40,6 +40,7 @@ const skillGroups: SkillGroup[] = [
     category: "CI/CD",
     items: [
       { name: "Docker" },
+      { name: "Podman" },
       { name: "Kubernetes" },
       { name: "AWS" },
       { name: "GitHub Actions" },

@@ -79,7 +79,7 @@ const projects: Project[] = [
     url: "https://github.com/2026-mini-project",
   },
   {
-    title: "web_ide",
+    title: "Web IDE",
     description: "브라우저에서 동작하는 웹 기반 IDE 프로젝트.",
     details: [
       "TypeScript 기반으로 웹 IDE 환경을 구현했습니다.",
